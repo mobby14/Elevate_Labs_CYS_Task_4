@@ -7,7 +7,7 @@ Configuring the firewall to add rules to allow and block traffic.
 ## How to add rules in firewall?
 - Open Windows Firewall or realted software in its respective OS.
 - Then you can see following window:
-  ![Window from Windows Firewall](path/to/image.jpg)
+  ![Window from Windows Firewall](https://github.com/mobby14/Elevate_Labs_CYS_Task_4/blob/main/EL_LABS_FIREWALL.PNG)
 - There will be two types of rules:
   - Inbound Rules
   - Outbound Rules  
