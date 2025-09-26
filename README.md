@@ -8,6 +8,7 @@ Configuring the firewall to add rules to allow and block traffic.
 - Open Windows Firewall or realted software in its respective OS.
 - Then you can see following window:
   ![Window from Windows Firewall](https://github.com/mobby14/Elevate_Labs_CYS_Task_4/blob/main/EL_LABS_FIREWALL.PNG)
+  ***
 - There will be two types of rules:
   - Inbound Rules
   - Outbound Rules  
@@ -28,5 +29,6 @@ Before that check whether you enabled Telnet Client in your system.
 ### Results
 - If you got blank screen then the connection is successful but the rule you placed is failed to block this conenction,
 - If you got this following message then the connection is failed and the rule is working properly.
- ![CMD output](path/to/image.jpg)
+ ![CMD output](https://github.com/mobby14/Elevate_Labs_CYS_Task_4/blob/main/CMD_Result.jpeg)
   
+***
