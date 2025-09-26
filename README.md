@@ -9,7 +9,7 @@ Configuring the firewall to add rules to allow and block traffic.
 - Then you can see following window:
   ![Window from Windows Firewall](path/to/image.jpg)
 - There will be two types of rules:
-  - Inbound Ruels
+  - Inbound Rules
   - Outbound Rules  
 - There you see Add Rule button, click to add rule for your firewall.
   - You need to Rule type which you need to implement.[For example, I want to create rule to block inbound for telent in port 23 so I choose Port.]
